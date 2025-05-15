@@ -16,9 +16,9 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           {/* Company Info */}
           <div className="md:col-span-1">
-            <h2 className="text-3xl font-bold mb-6 font-display">Solvency Inc</h2>
+            <h2 className="text-3xl font-bold mb-6 font-display">Cybix Inc</h2>
             <p className="text-gray-300 mb-6">
-              Empowering Success: Solvency Inc's 
+              Empowering Success: Cybix Inc's 
               Vision for IT Innovation
             </p>
             
@@ -81,9 +81,9 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="mailto:info@solvency.us" className="flex items-center text-gray-300 hover:text-[#f7931e] group">
+                <a href="mailto:info@cybix.us" className="flex items-center text-gray-300 hover:text-[#f7931e] group">
                   <Mail size={20} className="text-[#f7931e] mr-3 flex-shrink-0" />
-                  <span>info@solvency.us</span>
+                  <span>info@cybix.us</span>
                 </a>
               </li>
             </ul>
@@ -95,7 +95,7 @@ const Footer = () => {
         
         {/* Copyright */}
         <div className="text-center text-gray-400 text-sm">
-          <p>© {new Date().getFullYear()} Solvency Inc. All Rights Reserved.</p>
+          <p>© {new Date().getFullYear()} Cybix Inc. All Rights Reserved.</p>
         </div>
       </div>
       

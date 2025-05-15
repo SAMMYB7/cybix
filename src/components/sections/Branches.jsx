@@ -64,14 +64,14 @@ const Branches = () => {
   const branchOffices = [
     {
       title: "Headquarters - USA",
-      email: "info@solvency.us",
+      email: "info@cybix.us",
       address: "44330 Mercure Cir, ste 144 Sterling,VA-20166-USA",
       phone: "+1 2029824237",
       image: usaOfficeImage
     },
     {
       title: "India - Hyderabad",
-      email: "info@solvency.in",
+      email: "info@cybix.in",
       address: "Street No.1, Kakathiya Nagar, Habsiguda, Hyderabad-500007, Telangana India.",
       phone: "+91 79959 74333",
       fax: "866 594 4637",
@@ -79,7 +79,7 @@ const Branches = () => {
     },
     {
       title: "India - Khammam",
-      email: "info@solvency.in",
+      email: "info@cybix.in",
       address: "IT HUB, 5th Floor, Block-B, Indira Nagar, Khammam, Telangana-507002, India.",
       phone: "+91 79959 74333",
       fax: "866 594 4637",
